@@ -132,8 +132,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\..\Repository\project_cpp\main.cpp" />
-    <ClCompile Include="SelectionFour.cpp" />
-    <ClCompile Include="SelectionThree.cpp" />
     <ClCompile Include="SelectionTwo.cpp" />
   </ItemGroup>
   <ItemGroup>
