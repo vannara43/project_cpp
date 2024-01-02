@@ -13,8 +13,7 @@ static int SelectionTwo(int gold) {
 	cout << "You chosen to farm gold." << endl;
 
 	for (int i = 0; i < findGold; i++) {
-		int printThis = i+1;
-		for (int j = 0; j < printThis; j++) {
+		for (int j = 0; j < i+1; j++) {
 		cout << "$";
 		}
 		cout << endl;
